@@ -1,0 +1,64 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lavender;
+}
+
+body {
+
+}
+nav {
+    background-color: slategrey;
+}
+body nav h1 {
+    margin: 0 auto;
+    background-color: inherit;
+    color: lemonchiffon;
+    font-size: 70px;
+    text-align: center;
+}
+
+body nav ul {
+    background-color: slategrey;
+}
+body nav ul li {
+    list-style: none;
+    text-align: right;
+    display: inline-block;
+    position: static;
+    padding: 0px 60px;
+    background-color: slategrey;
+}
+
+section {
+    border: 2px solid slategrey;
+    margin: 5px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+footer h3 p {
+    font-style: italic;
+}
+
+label {
+    display: block;
+}
+
+#mainpic {
+    background-size: cover;
+    width:auto;
+    margin: 0 auto;
+    display: block;
+}
+
+#submitbtn {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
